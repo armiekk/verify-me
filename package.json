@@ -1,0 +1,23 @@
+{
+  "name": "verify-me",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.3",
+    "face-api.js": "^0.9.0",
+    "image-capture": "^0.4.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
+    "rxjs": "^6.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "tslib": "^1.9.3"
+  }
+}
